@@ -1,0 +1,11 @@
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\MainWindow.baml
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\App.g.cs
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\Quzz_rozwiazywanie_MarkupCompile.cache
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\Quzz_rozwiazywanie.g.resources
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\Quzz_rozwiazywanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\Quzz_rozwiazywanie.AssemblyInfoInputs.cache
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\Quzz_rozwiazywanie.AssemblyInfo.cs
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\Quzz_rozwiazywanie.csproj.CoreCompileInputs.cache
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\Quzz_rozwiazywanie.sourcelink.json
+D:\llm\Qiuzz\Quzz_rozwiazywanie\Quzz_rozwiazywanie\obj\Debug\net8.0-windows\Quzz_rozwiazywanie.csproj.AssemblyReference.cache

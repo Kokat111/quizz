@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|d:\\llm\\qiuzz\\quzz_rozwiazywanie\\quzz_rozwiazywanie\\viewmodels\\quizsolverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|solutionrelative:quzz_rozwiazywanie\\viewmodels\\quizsolverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|d:\\llm\\qiuzz\\quzz_rozwiazywanie\\quzz_rozwiazywanie\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|solutionrelative:quzz_rozwiazywanie\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|d:\\llm\\qiuzz\\quzz_rozwiazywanie\\quzz_rozwiazywanie\\services\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|solutionrelative:quzz_rozwiazywanie\\services\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|d:\\llm\\qiuzz\\quzz_rozwiazywanie\\quzz_rozwiazywanie\\quzz_rozwiazywanie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|solutionrelative:quzz_rozwiazywanie\\quzz_rozwiazywanie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|d:\\llm\\qiuzz\\quzz_rozwiazywanie\\quzz_rozwiazywanie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|solutionrelative:quzz_rozwiazywanie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|d:\\llm\\qiuzz\\quzz_rozwiazywanie\\quzz_rozwiazywanie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192A6B18-B827-446B-8876-EECE7F0D9AE8}|Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj|solutionrelative:quzz_rozwiazywanie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizSolverViewModel.cs",
+              "DocumentMoniker": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\ViewModels\\QuizSolverViewModel.cs",
+              "RelativeDocumentMoniker": "Quzz_rozwiazywanie\\ViewModels\\QuizSolverViewModel.cs",
+              "ToolTip": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\ViewModels\\QuizSolverViewModel.cs",
+              "RelativeToolTip": "Quzz_rozwiazywanie\\ViewModels\\QuizSolverViewModel.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAzwFkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:59:23.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Quzz_rozwiazywanie\\App.xaml.cs",
+              "ToolTip": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\App.xaml.cs",
+              "RelativeToolTip": "Quzz_rozwiazywanie\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:54:48.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDialogService.cs",
+              "DocumentMoniker": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\Services\\IDialogService.cs",
+              "RelativeDocumentMoniker": "Quzz_rozwiazywanie\\Services\\IDialogService.cs",
+              "ToolTip": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\Services\\IDialogService.cs",
+              "RelativeToolTip": "Quzz_rozwiazywanie\\Services\\IDialogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:52:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quzz_rozwiazywanie.csproj",
+              "DocumentMoniker": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj",
+              "RelativeDocumentMoniker": "Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj",
+              "ToolTip": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj",
+              "RelativeToolTip": "Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T20:37:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Quzz_rozwiazywanie\\MainWindow.xaml",
+              "ToolTip": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\MainWindow.xaml",
+              "RelativeToolTip": "Quzz_rozwiazywanie\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T09:33:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Quzz_rozwiazywanie\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Quzz_rozwiazywanie\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:33:32.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

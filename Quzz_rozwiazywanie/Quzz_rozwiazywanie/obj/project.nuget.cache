@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8XaYbTdWR8=",
+  "success": true,
+  "projectFilePath": "D:\\llm\\Qiuzz\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie\\Quzz_rozwiazywanie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kokat111\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\Kokat111\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
